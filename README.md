@@ -1,4 +1,4 @@
-# bulma-resume-template
+# resume-template
 
 💼 Free resume page template with bulma css
 
